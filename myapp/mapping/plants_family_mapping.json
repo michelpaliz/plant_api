@@ -1,0 +1,2268 @@
+{
+  "Fabaceae": {
+    "common_name": "Legume or Pea Family",
+    "preferred_climate": "Diverse, from tropical to temperate",
+    "growth_form": "Herbs, Shrubs, Trees",
+    "economic_importance": [
+      "Food crops: Soybeans, Peas, Beans, Lentils",
+      "Forage crops: Alfalfa, Clover",
+      "Timber: Rosewood, Mahogany",
+      "Medicinal plants: Licorice (Glycyrrhiza glabra)",
+      "Ornamentals: Wisteria, Lupin"
+    ],
+    "notable_examples": [
+      "Melilotus albus Medik.",
+      "Trifolium fragiferum L.",
+      "Acacia mellifera (Vahl) Benth.",
+      "Acacia seyal Delile",
+      "Acacia tortilis (Forssk.) Hayne",
+      "Galega officinalis L.",
+      "Lupinus cosentinii Guss.",
+      "Lupinus micranthus Guss.",
+      "Melilotus italicus (L.) Lam.",
+      "Melilotus sulcatus Desf.",
+      "Trifolium angustifolium L.",
+      "Trifolium arvense L.",
+      "Trifolium aureum Pollich",
+      "Trifolium campestre Schreb.",
+      "Trifolium cherleri L.",
+      "Trifolium hirtum All.",
+      "Trifolium hybridum L.",
+      "Trifolium incarnatum L.",
+      "Trifolium lappaceum L.",
+      "Trifolium michelianum Savi",
+      "Trifolium micranthum Viv.",
+      "Trifolium montanum L.",
+      "Trifolium ochroleucon Huds.",
+      "Trifolium pannonicum Jacq.",
+      "Trifolium patens Schreb.",
+      "Trifolium pratense L.",
+      "Trifolium purpureum Loisel.",
+      "Trifolium resupinatum L.",
+      "Trifolium scabrum L.",
+      "Trifolium spumosum L.",
+      "Trifolium squamosum L.",
+      "Trifolium stellatum L.",
+      "Trifolium striatum L.",
+      "Trifolium subterraneum L.",
+      "Trifolium tomentosum L.",
+      "Trifolium rubens L.",
+      "Acacia etbaica Schweinf.",
+      "Crotalaria juncea L.",
+      "Lupinus angustifolius L.",
+      "Lupinus luteus L.",
+      "Lupinus pilosus L.",
+      "Lupinus albus L.",
+      "Trifolium alexandrinum L.",
+      "Trifolium dubium Sibth.",
+      "Trifolium glomeratum L.",
+      "Trifolium nigrescens Viv.",
+      "Trifolium repens L.",
+      "Dalbergia melanoxylon Guill. & Perr.",
+      "Melilotus indicus (L.) All.",
+      "Melilotus officinalis (L.) Pall.",
+      "Acacia dealbata Link",
+      "Acacia longifolia (Andrews) Willd.",
+      "Acacia mearnsii De Wild.",
+      "Acacia pycnantha Benth.",
+      "Acacia retinodes Schltdl.",
+      "Aeschynomene americana L.",
+      "Prosopis alba Griseb.",
+      "Prosopis juliflora (Sw.) DC.",
+      "Crotalaria spectabilis Roth",
+      "Crotalaria chrysochlora Baker f. ex Harms",
+      "Crotalaria deflersii Schweinf.",
+      "Crotalaria polysperma Kotschy",
+      "Crotalaria uguenensis Taub.",
+      "Crotalaria verrucosa L.",
+      "Lupinus perennis L.",
+      "Lupinus polyphyllus Lindl.",
+      "Dalbergia latifolia Roxb.",
+      "Cordyla africana Lour.",
+      "Acacia xanthophloea Benth.",
+      "Acacia drepanolobium Harms ex Y. Sjöstedt",
+      "Acacia hockii De Wild.",
+      "Acacia angustissima (Mill.) Kuntze",
+      "Acacia mangium Willd.",
+      "Acacia melanoxylon R.Br.",
+      "Acacia saligna (Labill.) H.L.Wendl.",
+      "Galega orientalis Lam.",
+      "Lupinus arboreus Sims",
+      "Lupinus x regalis Bergmans",
+      "Melilotus altissimus Thuill.",
+      "Melilotus officinalis (L.) Lam.",
+      "Melilotus spicatus (Sm.) Breistr.",
+      "Trifolium alpestre L.",
+      "Trifolium alpinum L.",
+      "Trifolium pallescens Schreb.",
+      "Trifolium spadiceum L.",
+      "Trifolium thalii Vill.",
+      "Trifolium medium L.",
+      "Trifolium badium Schreb.",
+      "Lupinus nootkatensis Donn ex Sims",
+      "Acacia pravissima F.Muell.",
+      "Acacia baileyana F.Muell.",
+      "Bocoa prouacensis Aubl.",
+      "Crotalaria retusa L.",
+      "Crotalaria incana L.",
+      "Crotalaria pallida Aiton",
+      "Acacia auriculiformis A.Cunn. ex Benth.",
+      "Acacia heterophylla (Lam.) Willd.",
+      "Pongamia pinnata (L.) Pierre",
+      "Acacia podalyriifolia A.Cunn. ex G.Don",
+      "Strongylodon macrobotrys A.Gray",
+      "Acacia nilotica (L.) Delile",
+      "Falcataria moluccana (Miq.) Barneby & J.W.Grimes",
+      "Acacia tortuosa (L.) Willd.",
+      "Crotalaria brevidens Benth.",
+      "Crotalaria pumila Ortega",
+      "Entada gigas (L.) Fawc. & Rendle",
+      "Dalea purpurea Vent.",
+      "Lupinus argenteus Pursh",
+      "Lupinus bicolor Lindl.",
+      "Entada phaseoloides (L.) Merr.",
+      "Acacia simplex (Sparman) Pedley",
+      "Acacia spirorbis Labill.",
+      "Lupinus albifrons Benth.",
+      "Acacia confusa Merr.",
+      "Acacia koaia Hillebr.",
+      "Prosopis farcta (Banks & Sol.) J.F.Macbr.",
+      "Acacia farnesiana Willd.",
+      "Crotalaria laburnifolia L.",
+      "Dalbergia sissoo DC.",
+      "Lupinus chamissonis Eschsch.",
+      "Lupinus diffusus Nutt.",
+      "Lupinus formosus Greene",
+      "Lupinus hirsutissimus Benth.",
+      "Lupinus subcarnosus Hook.",
+      "Lupinus texensis Hook.",
+      "Prosopis glandulosa Torr.",
+      "Prosopis pubescens Benth.",
+      "Acacia berlandieri Benth.",
+      "Acacia redolens Maslin",
+      "Acacia rigidula Benth.",
+      "Acacia auriculiformis Benth.",
+      "Acacia brevispica Harms",
+      "Acacia caven (Molina) Molina",
+      "Acacia cognata Domin",
+      "Acacia confluens Maiden & Blakeley",
+      "Acacia podalyriifolia G.Don",
+      "Acacia saligna (Labill.) Wendl.",
+      "Dalbergia retusa Hemsl.",
+      "Lupinus nootkatensis Sims",
+      "Prosopis pallida (Willd.) Kunth",
+      "Acacia senegalensis (Houtt.) Roberty"
+    ]
+  },
+  "Asteraceae": {
+    "common_name": "Sunflower or Daisy Family",
+    "preferred_climate": "Diverse, from arctic to tropical",
+    "growth_form": "Herbs, Shrubs",
+    "economic_importance": [
+      "Edible oils: Sunflower seed oil",
+      "Vegetables: Lettuce, Artichoke",
+      "Medicinal plants: Echinacea, Chamomile",
+      "Ornamentals: Chrysanthemums, Daisies, Sunflowers"
+    ],
+    "notable_examples": [
+      "Lactuca virosa L.",
+      "Cirsium arvense (L.) Scop.",
+      "Cirsium vulgare (Savi) Ten.",
+      "Calendula officinalis L.",
+      "Calendula stellata Cav.",
+      "Carthamus caeruleus L.",
+      "Carthamus lanatus L.",
+      "Cirsium monspessulanum (L.) Hill",
+      "Helminthotheca echioides (L.) Holub",
+      "Hyoseris radiata L.",
+      "Lactuca muralis (L.) Gaertn.",
+      "Lactuca saligna L.",
+      "Lactuca tenerrima Pourr.",
+      "Limbarda crithmoides (L.) Dumort.",
+      "Cirsium palustre (L.) Scop.",
+      "Guizotia abyssinica (L. f.) Cass.",
+      "Tagetes minuta L.",
+      "Tagetes patula L.",
+      "Calendula arvensis (Vaill.) L.",
+      "Lapsana communis L.",
+      "Carthamus tinctorius L.",
+      "Lactuca sativa L.",
+      "Lactuca serriola L.",
+      "Gynura aurantiaca (Blume) DC.",
+      "Gynura procumbens (Lour.) Merr.",
+      "Tagetes erecta L.",
+      "Aspilia mossambicensis (Oliv.) Wild",
+      "Aspilia pluriseta Schweinf.",
+      "Schkuhria pinnata (Lam.) Thell.",
+      "Montanoa hibiscifolia Benth.",
+      "Lactuca plumieri (L.) Gren. & Godr.",
+      "Tagetes tenuifolia Cav.",
+      "Erechtites hieraciifolius (L.) Raf. ex DC.",
+      "Calendula arvensis L.",
+      "Carthamus carduncellus L.",
+      "Carthamus mitissimus L.",
+      "Cirsium alsophilum (Pollini) Greuter",
+      "Cirsium canum (L.) All.",
+      "Cirsium dissectum (L.) Hill",
+      "Cirsium eriophorum (L.) Scop.",
+      "Cirsium erisithales (Jacq.) Scop.",
+      "Cirsium ferox (L.) DC.",
+      "Cirsium filipendulum Lange",
+      "Cirsium glabrum DC.",
+      "Cirsium heterophyllum (L.) Hill",
+      "Cirsium morisianum Rchb.f.",
+      "Cirsium oleraceum (L.) Scop.",
+      "Cirsium rivulare (Jacq.) All.",
+      "Cirsium tuberosum (L.) All.",
+      "Geropogon hybridus (L.) Sch.Bip.",
+      "Guizotia abyssinica (L.f.) Cass.",
+      "Iva xanthiifolia Nutt.",
+      "Lactuca alpina (L.) Benth. & Hook.f.",
+      "Lactuca macrophylla (Willd.) A.Gray",
+      "Lactuca viminea (L.) J.Presl & C.Presl",
+      "Telekia speciosa (Schreb.) Baumg.",
+      "Adenostyles alpina (L.) Bluff & Fingerh.",
+      "Cirsium acaulon (L.) Scop.",
+      "Cirsium spinosissimum (L.) Scop.",
+      "Lactuca perennis L.",
+      "Adenostyles alliariae (Gouan) A.Kern.",
+      "Adenostyles leucophylla (Willd.) Rchb.",
+      "Iva annua L.",
+      "Bellium bellidioides L.",
+      "Faujasia salicifolia (Pers.) C.Jeffrey",
+      "Stoebe passerinoides (Lam.) Willd.",
+      "Gynura aurantiaca (Blume) Sch.Bip. ex DC.",
+      "Lactuca floridana (L.) Gaertn.",
+      "Cirsium discolor (Muhl. ex Willd.) Spreng.",
+      "Cirsium foliosum (Hook.) DC.",
+      "Cirsium muticum Michx.",
+      "Cirsium undulatum (Nutt.) Spreng.",
+      "Conoclinium coelestinum (L.) DC.",
+      "Iva frutescens L.",
+      "Lactuca biennis (Moench) Fernald",
+      "Lactuca canadensis L.",
+      "Balsamorhiza sagittata (Pursh) Nutt.",
+      "Tagetes lucida Cav.",
+      "Schkuhria pinnata (Lam.) Kuntze ex Thell.",
+      "Melampodium perfoliatum (Cav.) Kunth",
+      "Melampodium divaricatum (Rich.) DC.",
+      "Lactuca virosa Habl.",
+      "Calendula arvensis M.Bieb.",
+      "Melampodium leucanthum Torr. & A. Gray",
+      "Tagetes lemmonii A. Gray",
+      "Cirsium altissimum (L.) Hill",
+      "Cirsium horridulum Michx.",
+      "Cirsium texanum Buckley",
+      "Elephantopus elatus Bertol.",
+      "Cirsium palustre (L.) Coss. ex Scop.",
+      "Erechtites minima (Poir.) DC.",
+      "Lactuca alpina (L.) A.Gray",
+      "Leptinella potentillina F.Muell.",
+      "Leucophyta brownii Cass.",
+      "Melampodium divaricatum (Rich. ex Rich.) DC.",
+      "Othonna capensis L.H.Bailey",
+      "Rhodanthe chlorocephala (Turcz.) Paul G.Wilson",
+      "Tagetes lemmonii A.Gray",
+      "Tagetes lunulata Ortega"
+    ]
+  },
+  "Crassulaceae": {
+    "common_name": "Stonecrop Family",
+    "preferred_climate": "Temperate to arid",
+    "growth_form": "Herbs, Succulents",
+    "economic_importance": [
+      "Ornamentals: Sedum, Kalanchoe, Crassula"
+    ],
+    "notable_examples": [
+      "Sedum acre L.",
+      "Sedum album L.",
+      "Sedum amplexicaule DC.",
+      "Sedum andegavense (DC.) Desv.",
+      "Sedum brevifolium DC.",
+      "Sedum caeruleum L.",
+      "Sedum caespitosum (Cav.) DC.",
+      "Sedum cepaea L.",
+      "Sedum dasyphyllum L.",
+      "Sedum forsterianum Sm.",
+      "Sedum hirsutum All.",
+      "Sedum litoreum Guss.",
+      "Sedum multiceps Coss. & Durieu",
+      "Sedum rubens L.",
+      "Sedum sediforme (Jacq.) Pau",
+      "Sedum villosum L.",
+      "Sedum anglicum Huds.",
+      "Sedum rupestre L.",
+      "Sedum hispanicum L.",
+      "Phedimus aizoon (L.) 't Hart",
+      "Phedimus spurius (M.Bieb) 't Hart",
+      "Sedum pachyphyllum Rose",
+      "Sedum dendroideum Moc. & Sessé ex DC.",
+      "Phedimus stellatus (L.) Raf.",
+      "Sedum sarmentosum Bunge",
+      "Sedum alpestre Vill.",
+      "Sedum annuum L.",
+      "Sedum kamtschaticum Fisch. & C.A.Mey.",
+      "Sedum mexicanum Britton",
+      "Sedum ochroleucum Chaix",
+      "Sedum sexangulare L.",
+      "Sedum atratum L.",
+      "Sedum montanum Perrier & Songeon",
+      "Sedum palmeri S.Watson",
+      "Sedum divergens S. Watson",
+      "Sedum lanceolatum Torr.",
+      "Sedum oreganum Nutt.",
+      "Sedum spathulifolium Hook.",
+      "Sedum ternatum Michx.",
+      "Sedum kamtschaticum Fisch.",
+      "Sedum lineare Thunb.",
+      "Sedum morganianum E.Walther",
+      "Sedum palmeri S. Watson",
+      "Sedum albomarginatum R.T. Clausen",
+      "Sedum glaucophyllum R.T. Clausen",
+      "Sedum laxum (Britton) A. Berger",
+      "Sedum moranense Kunth",
+      "Sedum niveum Davidson",
+      "Sedum obtusatum A. Gray",
+      "Sedum pulchellum Michx.",
+      "Sedum adolphii Raym.-Hamet",
+      "Sedum allantoides Rose",
+      "Sedum burrito Moran",
+      "Sedum clavatum R.T. Clausen",
+      "Sedum compressum Rose",
+      "Sedum cyaneum J. Rudolph",
+      "Sedum decumbens R.T. Clausen",
+      "Sedum furfuraceum Moran",
+      "Sedum hernandezii J. Meyrán",
+      "Sedum japonicum Siebold ex Miq.",
+      "Sedum makinoi Maxim.",
+      "Sedum nussbaumerianum Bitter",
+      "Sedum praealtum A.DC.",
+      "Sedum rubrotinctum R.T. Clausen"
+    ]
+  },
+  "Orchidaceae": {
+    "common_name": "Orchid Family",
+    "preferred_climate": "Tropical & Subtropical",
+    "growth_form": "Epiphytes, Terrestrials",
+    "economic_importance": [
+      "Ornamentals: Phalaenopsis, Cattleya, Dendrobium",
+      "Food: Vanilla (Vanilla planifolia)",
+      "Medicinal plants: Gastrodia elata"
+    ],
+    "notable_examples": [
+      "Neotinea maculata (Desf.) Stearn",
+      "Ophrys apifera Huds.",
+      "Ophrys bombyliflora Link",
+      "Ophrys fusca Link",
+      "Ophrys lutea Cav.",
+      "Ophrys scolopax Cav.",
+      "Ophrys speculum Link",
+      "Ophrys tenthredinifera Willd.",
+      "Epipactis helleborine (L.) Crantz",
+      "Ophrys insectifera L.",
+      "Vanilla planifolia Andrews",
+      "Ansellia africana Lindl.",
+      "Ophrys druentica P.Delforge & Viglione",
+      "Ophrys occidentalis (Scappaticci) Scappaticci & M.Demange",
+      "Epipactis atrorubens (Hoffm.) Besser",
+      "Epipactis leptochila (Godfery) Godfery",
+      "Epipactis microphylla (Ehrh.) Sw.",
+      "Epipactis muelleri Godfery",
+      "Epipactis palustris (L.) Crantz",
+      "Epipactis phyllanthes G.E.Sm.",
+      "Epipactis purpurata Sm.",
+      "Neotinea lactea (Poir.) R.M.Bateman, Pridgeon & M.W.Chase",
+      "Neotinea ustulata (L.) R.M.Bateman, Pridgeon & M.W.Chase",
+      "Ophrys arachnitiformis Gren. & M.Philippe",
+      "Ophrys aranifera Huds.",
+      "Ophrys aveyronensis (J.J.Wood) P.Delforge",
+      "Ophrys aymoninii (Breistr.) Buttler",
+      "Ophrys bertolonii Moretti",
+      "Ophrys catalaunica O.Danesch & E.Danesch",
+      "Ophrys exaltata Ten.",
+      "Ophrys fuciflora (F.W.Schmidt) Moench",
+      "Ophrys incubacea Bianca",
+      "Ophrys lupercalis Devillers & Devillers-Tersch.",
+      "Ophrys morisii (Martelli) Soó",
+      "Ophrys passionis Sennen",
+      "Ophrys provincialis (Baumann & Künkele) Paulus",
+      "Ophrys saratoi E.G.Camus",
+      "Ophrys sulcata Devillers & Devillers-Tersch.",
+      "Neotinea tridentata (Scop.) R.M.Bateman, Pridgeon & M.W.Chase",
+      "Ophrys pseudoscolopax (Moggr.) Paulus & Gack",
+      "Ophrys araneola sensu auct.plur.",
+      "Ophrys virescens Philippe",
+      "Neotinea conica (Willd.) R.M.Bateman",
+      "Ophrys lunulata Parl.",
+      "Vanilla pompona Schiede",
+      "Vanilla planifolia Jacks.",
+      "Cryptopus elatus (Thouars) Lindl.",
+      "Dendrobium nobile Lindl.",
+      "Dendrobium chrysotoxum Lindl.",
+      "Dendrobium crumenatum Sw.",
+      "Dendrobium moschatum (Buch.-Ham.) Sw.",
+      "Epipactis gigantea Douglas ex Hook.",
+      "Dendrobium closterium Rchb.f.",
+      "Dendrobium aphyllum (Roxb.) C.E.C.Fisch.",
+      "Vanilla planifolia Jacks. ex Andrews",
+      "Dendrobium anosmum Lindl.",
+      "Dendrobium kingianum Bidwill ex Lindl.",
+      "Dendrobium munificum (Finet) Schltr.",
+      "Dendrobium thyrsiflorum B.S.Williams",
+      "Dendrobium victoriae-reginae Loher",
+      "Erycina pusilla (L.) N.H.Williams & M.W.Chase"
+    ]
+  },
+  "Hypericaceae": {
+    "common_name": "St. John's Wort Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Herbs, Shrubs",
+    "economic_importance": [
+      "Medicinal plants: St. John's Wort (Hypericum perforatum)",
+      "Ornamentals: Hypericum"
+    ],
+    "notable_examples": [
+      "Hypericum perforatum L.",
+      "Hypericum androsaemum L.",
+      "Hypericum australe Ten.",
+      "Hypericum canariense L.",
+      "Hypericum empetrifolium Willd.",
+      "Hypericum hircinum L.",
+      "Hypericum hirsutum L.",
+      "Hypericum humifusum L.",
+      "Hypericum linariifolium Vahl",
+      "Hypericum montanum L.",
+      "Hypericum perfoliatum L.",
+      "Hypericum tetrapterum Fr.",
+      "Hypericum tomentosum L.",
+      "Hypericum triquetrifolium Turra",
+      "Hypericum annulatum Moris",
+      "Hypericum balearicum L.",
+      "Hypericum calycinum L.",
+      "Hypericum coris L.",
+      "Hypericum elodes L.",
+      "Hypericum x inodorum Mill.",
+      "Hypericum maculatum Crantz",
+      "Hypericum nummularium L.",
+      "Hypericum pulchrum L.",
+      "Hypericum richeri Vill.",
+      "Hypericum hyssopifolium Chaix",
+      "Hypericum mutilum L.",
+      "Hypericum olympicum L.",
+      "Hypericum patulum Thunb.",
+      "Hypericum x hidcoteense Hilling ex Geerinck",
+      "Vismia cayennensis (Jacq.) Pers.",
+      "Vismia macrophylla Kunth",
+      "Vismia sessilifolia (Aubl.) Choisy",
+      "Hypericum lanceolatum Lam.",
+      "Hypericum kalmianum L.",
+      "Hypericum prolificum L.",
+      "Hypericum punctatum Lam.",
+      "Hypericum frondosum Michx.",
+      "Hypericum revolutum Vahl",
+      "Hypericum hypericoides (L.) Crantz",
+      "Hypericum tetrapetalum Lam."
+    ]
+  },
+  "Ranunculaceae": {
+    "common_name": "Buttercup Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Herbs, Shrubs",
+    "economic_importance": [
+      "Medicinal plants: Ranunculus",
+      "Ornamentals: Clematis, Anemone"
+    ],
+    "notable_examples": [
+      "Adonis aestivalis L.",
+      "Adonis annua L.",
+      "Adonis flammea Jacq.",
+      "Adonis microcarpa DC.",
+      "Anemone coronaria L.",
+      "Anemone palmata L.",
+      "Anemone hortensis L.",
+      "Myosurus minimus L.",
+      "Anemone x hybrida Paxton",
+      "Anemone alpina L.",
+      "Anemone apennina L.",
+      "Anemone baldensis L.",
+      "Anemone halleri All.",
+      "Anemone hepatica L.",
+      "Anemone montana Hoppe",
+      "Anemone nemorosa L.",
+      "Anemone pulsatilla L.",
+      "Anemone rubra Lam.",
+      "Anemone sylvestris L.",
+      "Anemone trifolia L.",
+      "Anemone vernalis L.",
+      "Anemone hupehensis (Lemoine) Lemoine",
+      "Anemone vitifolia Buch.-Ham. ex DC.",
+      "Anemone narcissiflora L.",
+      "Anemone ranunculoides L.",
+      "Anemone pratensis L.",
+      "Anemone blanda Schott & Kotschy",
+      "Adonis pyrenaica DC.",
+      "Adonis vernalis L.",
+      "Anemone canadensis L.",
+      "Anemone multifida Poir.",
+      "Anemone virginiana L.",
+      "Anemone patens L.",
+      "Anemone pavoniana Boiss.",
+      "Anemone tomentosa (Maxim.) C.Pei",
+      "Hepatica nobilis Mill."
+    ]
+  },
+  "Araceae": {
+    "common_name": "Arum Family",
+    "preferred_climate": "Tropical & Subtropical",
+    "growth_form": "Herbs",
+    "economic_importance": [
+      "Ornamentals: Philodendron, Monstera",
+      "Medicinal plants: Alocasia"
+    ],
+    "notable_examples": [
+      "Zamioculcas zamiifolia (Lodd.) Engl.",
+      "Helicodiceros muscivorus (L.f.) Engl.",
+      "Anthurium hookeri Kunth",
+      "Anthurium jenmanii Engl.",
+      "Anthurium scandens (Aubl.) Engl.",
+      "Dracontium polyphyllum L.",
+      "Anthurium crystallinum Linden & André",
+      "Alocasia cucullata (Lour.) G.Don",
+      "Alocasia longiloba Miq.",
+      "Alocasia macrorrhizos (L.) G.Don",
+      "Anthurium andraeanum Linden ex André",
+      "Anthurium scherzerianum Schott",
+      "Alocasia cuprea K.Koch",
+      "Alocasia micholitziana Sander",
+      "Alocasia odora (Lindl.) K.Koch",
+      "Alocasia sanderiana W.Bull",
+      "Alocasia macrorrhizos (L.) G. Don",
+      "Alocasia cucullata (Lour.) G. Don",
+      "Alocasia baginda Kurniawan & P.C.Boyce",
+      "Alocasia lauterbachiana (Engl.) A.Hay",
+      "Alocasia reginula A.Hay",
+      "Alocasia wentii Engl. & K.Krause",
+      "Alocasia zebrina Schott ex Van Houtte",
+      "Anthurium clarinervium Matuda",
+      "Anthurium faustomirandae Pérez-Farr. & Croat",
+      "Anthurium salvinii Hemsl.",
+      "Anthurium schlechtendalii Kunth",
+      "Anthurium veitchii Mast.",
+      "Anthurium warocqueanum T.Moore"
+    ]
+  },
+  "Apiaceae": {
+    "common_name": "Carrot or Parsley Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Herbs",
+    "economic_importance": [
+      "Vegetables: Carrot, Parsley, Celery",
+      "Medicinal plants: Angelica",
+      "Ornamentals: Queen Anne's Lace"
+    ],
+    "notable_examples": [
+      "Berula erecta (Huds.) Coville",
+      "Chaerophyllum temulum L.",
+      "Daucus muricatus (L.) L.",
+      "Meum athamanticum Jacq.",
+      "Thapsia garganica L.",
+      "Thapsia villosa L.",
+      "Falcaria vulgaris Bernh.",
+      "Daucus carota L.",
+      "Aegopodium podagraria L.",
+      "Chaerophyllum aureum L.",
+      "Chaerophyllum hirsutum L.",
+      "Chaerophyllum villarsii W.D.J.Koch",
+      "Angelica heterocarpa J.Lloyd",
+      "Angelica razulii Gouan",
+      "Angelica sylvestris L.",
+      "Pleurospermum austriacum (L.) Hoffm.",
+      "Angelica archangelica L.",
+      "Chaerophyllum bulbosum L.",
+      "Trinia glauca (L.) Dumort.",
+      "Chaerophyllum aromaticum L.",
+      "Astydamia latifolia Baill.",
+      "Angelica atropurpurea L.",
+      "Daucus pusillus Michx.",
+      "Angelica lucida L.",
+      "Heteromorpha arborescens (Spreng.) Cham. & Schltdl.",
+      "Chaerophyllum tainturieri Hook."
+    ]
+  },
+  "Lamiaceae": {
+    "common_name": "Mint Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Herbs, Shrubs",
+    "economic_importance": [
+      "Herbs: Mint, Basil, Rosemary, Thyme",
+      "Medicinal plants: Mint (Mentha)",
+      "Ornamentals: Salvia, Lavender"
+    ],
+    "notable_examples": [
+      "Lamium amplexicaule L.",
+      "Lavandula dentata L.",
+      "Lamium bifidum Cirillo",
+      "Lamium flexuosum Ten.",
+      "Lamium garganicum L.",
+      "Lamium hybridum Vill.",
+      "Lamium purpureum L.",
+      "Lavandula canariensis Mill.",
+      "Lavandula minutolii Bolle",
+      "Lavandula multifida L.",
+      "Lavandula stoechas L.",
+      "Lamium galeobdolon (L.) L.",
+      "Lavandula angustifolia Mill.",
+      "Perovskia abrotanoides Kar.",
+      "Lamium album L.",
+      "Lamium maculatum (L.) L.",
+      "Lavandula x intermedia Emeric ex Loisel.",
+      "Lavandula latifolia Medik.",
+      "Perovskia atriplicifolia Benth.",
+      "Lamium orvala L.",
+      "Lavandula pinnata Moench",
+      "Leonitis nepetifolia (L.) R.Br.",
+      "Lamium maculatum L.",
+      "Lavandula canariensis (L.) Mill."
+    ]
+  },
+  "Poaceae": {
+    "common_name": "Grass Family",
+    "preferred_climate": "Diverse",
+    "growth_form": "Herbs",
+    "economic_importance": [
+      "Cereals: Wheat, Rice, Corn",
+      "Forage crops: Hay, Pasture grasses",
+      "Ornamentals: Bamboo"
+    ],
+    "notable_examples": [
+      "Danthonia decumbens (L.) DC.",
+      "Leersia oryzoides (L.) Sw.",
+      "Phalaris coerulescens Desf.",
+      "Cenchrus longispinus (Hack.) Fernald",
+      "Cenchrus clandestinus (Hochst. ex Chiov.) Morrone",
+      "Cenchrus purpureus (Schumach.) Morrone",
+      "Cenchrus setaceus (Forssk.) Morrone",
+      "Secale cereale L.",
+      "Cenchrus ciliaris L.",
+      "Cenchrus echinatus L.",
+      "Phalaris aquatica L.",
+      "Phalaris arundinacea L.",
+      "Phalaris canariensis L.",
+      "Phalaris minor Retz.",
+      "Phalaris paradoxa L.",
+      "Arthraxon hispidus (Thunb.) Makino",
+      "Microchloa kunthii Desv.",
+      "Harpachne schimperi Hochst. ex A. Rich.",
+      "Patzkea paniculata (L.) G.H.Loos",
+      "Cenchrus longisetus M.C.Johnst.",
+      "Sasa palmata (Burb.) Camus",
+      "Leersia virginica Willd.",
+      "Sasa palmata (Burb.) E.G.Camus"
+    ]
+  },
+  "Piperaceae": {
+    "common_name": "Pepper Family",
+    "preferred_climate": "Tropical",
+    "growth_form": "Herbs, Shrubs",
+    "economic_importance": [
+      "Spices: Black pepper (Piper nigrum)",
+      "Medicinal plants: Piper"
+    ],
+    "notable_examples": [
+      "Peperomia pellucida (L.) Kunth",
+      "Peperomia magnoliifolia (Jacq.) A.Dietr.",
+      "Peperomia obtusifolia (L.) A.Dietr.",
+      "Peperomia quadrangularis (J.V.Thomps.) A.Dietr.",
+      "Peperomia rotundifolia (L.) Kunth",
+      "Peperomia serpens (Sw.) Loudon",
+      "Peperomia argyreia (Miq.) E.Morren",
+      "Peperomia caperata Yunck.",
+      "Peperomia obtusifolia (L.) A. Dietr.",
+      "Peperomia argyreia (Hook.f.) E.Morren",
+      "Peperomia dolabriformis Kunth",
+      "Peperomia albovittata C. DC.",
+      "Peperomia clusiifolia (Jacq.) Hook.",
+      "Peperomia columella Rauh & Hutchison",
+      "Peperomia ferreyrae Yunck.",
+      "Peperomia graveolens Rauh & Barthlott",
+      "Peperomia maculosa (L.) Hook.",
+      "Peperomia pecuniifolia Trel. & Standl.",
+      "Peperomia polybotrya Kunth",
+      "Peperomia prostrata B.S. Williams",
+      "Peperomia tetragona Ruiz & Pav.",
+      "Peperomia verticillata (L.) A.Dietr."
+    ]
+  },
+  "Geraniaceae": {
+    "common_name": "Geranium Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Herbs, Shrubs",
+    "economic_importance": [
+      "Ornamentals: Pelargonium, Geranium"
+    ],
+    "notable_examples": [
+      "Pelargonium capitatum (L.) L'Hér.",
+      "Pelargonium graveolens L'Hér.",
+      "Pelargonium odoratissimum (L.) L'Hér.",
+      "Pelargonium peltatum (L.) L'Hér.",
+      "Pelargonium quercifolium (L. f.) L'Hér.",
+      "Pelargonium zonale (L.) L'Hér.",
+      "Pelargonium alchemilloides (L.) L'Hér.",
+      "Pelargonium quinquelobatum Hochst. ex A. Rich.",
+      "Pelargonium glechomoides A. Rich.",
+      "Pelargonium x hybridum (L.) Aiton",
+      "Pelargonium inquinans (L.) Aiton",
+      "Pelargonium peltatum (L.) Aiton",
+      "Pelargonium x asperum Ehrh. ex Willd.",
+      "Pelargonium crispum (P.J. Bergius) L'Hér.",
+      "Pelargonium x hortorum L.H. Bailey",
+      "Pelargonium grandiflorum Willd.",
+      "Pelargonium panduriforme Eckl. & Zeyh.",
+      "Pelargonium zonale (L.) L'Hér. ex Aiton",
+      "Pelargonium echinatum Curtis",
+      "Pelargonium × hortorum L.H. Bailey",
+      "Pelargonium sidoides DC.",
+      "Pelargonium tomentosum Jacq."
+    ]
+  },
+  "Rubiaceae": {
+    "common_name": "Coffee Family",
+    "preferred_climate": "Tropical & Subtropical",
+    "growth_form": "Shrubs, Trees",
+    "economic_importance": [
+      "Beverages: Coffee (Coffea)",
+      "Medicinal plants: Cinchona",
+      "Ornamentals: Ixora"
+    ],
+    "notable_examples": [
+      "Oldenlandia corymbosa L.",
+      "Conostomium kenyense Bremek.",
+      "Conostomium quadrangulare (Rendle) Cufod.",
+      "Mussaenda frondosa L.",
+      "Mussaenda erythrophylla Schumach. & Thonn.",
+      "Morinda citrifolia L.",
+      "Mussaenda philippica A. Rich.",
+      "Declieuxia fruticosa (Willd. ex Roem. & Schult.) Kuntze",
+      "Fernelia buxifolia Lam.",
+      "Mussaenda arcuata Poir.",
+      "Paederia foetida L.",
+      "Antirhea borbonica J.F.Gmel.",
+      "Vangueria madagascariensis J.F.Gmel.",
+      "Mussaenda pubescens Dryand.",
+      "Neolamarckia cadamba (Roxb.) Bosser",
+      "Atractocarpus platyxylon (Vieill. ex Pancher & Sebert) Guillaumin",
+      "Mussaenda philippica A.Rich.",
+      "Margaritopsis haematocarpa (Standl.) C.M.Taylor",
+      "Alibertia edulis (Rich.) A. Rich."
+    ]
+  },
+  "Cactaceae": {
+    "common_name": "Cactus Family",
+    "preferred_climate": "Arid",
+    "growth_form": "Succulents",
+    "economic_importance": [
+      "Ornamentals: Various cacti",
+      "Food: Prickly pear (Opuntia)"
+    ],
+    "notable_examples": [
+      "Cereus jamacaru DC.",
+      "Pereskia bleo (Kunth) DC.",
+      "Cereus hexagonus (L.) Mill.",
+      "Pereskia grandifolia Haw.",
+      "Cereus repandus (L.) Mill.",
+      "Pereskia aculeata Mill.",
+      "Pilosocereus royeni (L.) Byles & G. Rowley",
+      "Selenicereus anthonyanus (Alexander) D.Hunt",
+      "Selenicereus grandiflorus (L.) Britton & Rose",
+      "Cereus hildmannianus K.Schum.",
+      "Neobuxbaumia polylopha (DC.) Backeb.",
+      "Cereus forbesii C.F.Först.",
+      "Cereus uruguayanus R. Kiesling",
+      "Coryphantha elephantidens (Lem.) Lem.",
+      "Pilosocereus chrysostele (Vaupel) Byles & G.D.Rowley",
+      "Pilosocereus pachycladus F. Ritter",
+      "Selenicereus anthonyanus (Alexander) D.R. Hunt",
+      "Stenocactus multicostatus (Hildm.) A. Berger ex A.W. Hill",
+      "Tephrocactus geometricus (A. Cast.) Backeb."
+    ]
+  },
+  "Dryopteridaceae": {
+    "common_name": "Wood Fern Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Ferns",
+    "economic_importance": [
+      "Ornamentals: Dryopteris"
+    ],
+    "notable_examples": [
+      "Dryopteris aemula (Aiton) Kuntze",
+      "Dryopteris affinis (Lowe) Fraser-Jenk.",
+      "Dryopteris filix-mas (L.) Schott",
+      "Dryopteris carthusiana (Vill.) H.P.Fuchs",
+      "Dryopteris cristata (L.) A.Gray",
+      "Dryopteris dilatata (Hoffm.) A.Gray",
+      "Dryopteris expansa (C.Presl) Fraser-Jenk. & Jermy",
+      "Dryopteris villarii (Bellardi) Woyn. ex Schinz & Thell.",
+      "Dryopteris erythrosora (Eaton) Kuntze",
+      "Dryopteris fragrans (L.) Schott",
+      "Dryopteris wallichiana (Spreng.) Hyl.",
+      "Dryopteris carthusiana (Vill.) H.P. Fuchs",
+      "Dryopteris cristata (L.) A. Gray",
+      "Dryopteris intermedia (Muhl. ex Willd.) A. Gray",
+      "Dryopteris marginalis (L.) A. Gray",
+      "Dryopteris cycadina (Franch. & Sav.) C. Chr.",
+      "Dryopteris erythrosora (D.C. Eaton) Kuntze",
+      "Dryopteris sieboldii (T. Moore) Kuntze",
+      "Rumohra adiantiformis (G. Forst.) Ching"
+    ]
+  },
+  "Rosaceae": {
+    "common_name": "Rose Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Shrubs, Trees, Herbs",
+    "economic_importance": [
+      "Fruits: Apples, Pears, Peaches, Cherries, Strawberries",
+      "Ornamentals: Roses, Potentilla, Spiraea",
+      "Medicinal plants: Hawthorn (Crataegus)",
+      "Timber: Cherry wood"
+    ],
+    "notable_examples": [
+      "Fragaria vesca L.",
+      "Duchesnea indica (Jacks.) Focke",
+      "Pyracantha koidzumii (Hayata) Rehder",
+      "Dryas octopetala L.",
+      "Fragaria moschata Weston",
+      "Pyracantha coccinea M.Roem.",
+      "Pyracantha rogersiana (A.B.Jacks.) Coltm.-Rog.",
+      "Holodiscus discolor (Pursh) Maxim.",
+      "Fragaria viridis Weston",
+      "Fragaria virginiana Duchesne",
+      "Fragaria x ananassa Duchesne ex Rozier",
+      "Fragaria chiloensis (L.) Mill.",
+      "Duchesnea indica (Andrews) Teschem.",
+      "Pyracantha coccinea M. Roem.",
+      "Fragaria virginiana Mill.",
+      "Fragaria x ananassa (Duchesne ex Weston) Duchesne ex Rozier",
+      "Lyonothamnus floribundus A. Gray",
+      "Fragaria × ananassa (Duchesne ex Weston) Duchesne ex Rozier"
+    ]
+  },
+  "Commelinaceae": {
+    "common_name": "Spiderwort Family",
+    "preferred_climate": "Tropical & Subtropical",
+    "growth_form": "Herbs",
+    "economic_importance": [
+      "Ornamentals: Tradescantia"
+    ],
+    "notable_examples": [
+      "Tradescantia fluminensis Vell.",
+      "Tradescantia zebrina Heynh. ex Bosse",
+      "Tradescantia pallida (Rose) D.R. Hunt",
+      "Tradescantia cerinthoides Kunth",
+      "Tradescantia spathacea Sw.",
+      "Tradescantia x andersoniana F.Ludw. & Rohweder",
+      "Tradescantia virginiana L.",
+      "Tradescantia zebrina Bosse",
+      "Tradescantia pallida (Rose) D.R.Hunt",
+      "Tradescantia occidentalis (Britton) Smyth",
+      "Tradescantia ohiensis Raf.",
+      "Tradescantia subaspera Ker Gawl.",
+      "Tradescantia zebrina hort. ex Bosse",
+      "Tradescantia crassifolia Cav.",
+      "Cyanotis somaliensis C.B.Clarke",
+      "Tradescantia × andersoniana W.Ludw. & Rohweder",
+      "Tradescantia sillamontana Matuda"
+    ]
+  },
+  "Brassicaceae": {
+    "common_name": "Mustard Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Herbs",
+    "economic_importance": [
+      "Vegetables: Cabbage, Broccoli, Cauliflower",
+      "Oil crops: Canola (Brassica napus)",
+      "Medicinal plants: Mustard (Brassica)"
+    ],
+    "notable_examples": [
+      "Alliaria petiolata (M. Bieb.) Cavara & Grande",
+      "Fibigia clypeata (L.) Medik.",
+      "Barbarea verna (Mill.) Asch.",
+      "Barbarea intermedia Boreau",
+      "Erucastrum gallicum (Willd.) O.E.Schulz",
+      "Erucastrum incanum (L.) W.D.J.Koch",
+      "Erucastrum nasturtiifolium (Poir.) O.E.Schulz",
+      "Alliaria petiolata (M.Bieb.) Cavara & Grande",
+      "Noccaea caerulescens (J.Presl & C.Presl) F.K.Mey.",
+      "Noccaea montana (L.) F.K.Mey.",
+      "Noccaea rotundifolia (L.) Moench",
+      "Barbarea rupicola Moris",
+      "Barbarea vulgaris R.Br.",
+      "Barbarea orthoceras Ledeb.",
+      "Barbarea vulgaris W.T. Aiton",
+      "Stanleya pinnata (Pursh) Britton"
+    ]
+  },
+  "Papaveraceae": {
+    "common_name": "Poppy Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Herbs",
+    "economic_importance": [
+      "Medicinal plants: Opium poppy (Papaver somniferum)",
+      "Ornamentals: Corn poppy (Papaver rhoeas)"
+    ],
+    "notable_examples": [
+      "Hunnemannia fumariifolia Sweet",
+      "Papaver atlanticum (Ball) Coss.",
+      "Papaver rupifragum Boiss. & Reut.",
+      "Papaver argemone L.",
+      "Papaver hybridum L.",
+      "Papaver rhoeas L.",
+      "Papaver dubium L.",
+      "Papaver somniferum L.",
+      "Papaver alpinum L.",
+      "Papaver croceum Ledeb.",
+      "Papaver orientale L.",
+      "Papaver pseudoorientale (Fedde) Medw.",
+      "Papaver rhaeticum Leresche",
+      "Papaver nudicaule L.",
+      "Adlumia fungosa (Aiton) Britton, Sterns & Poggenb."
+    ]
+  },
+  "Phyllanthaceae": {
+    "common_name": "Phyllanthus Family",
+    "preferred_climate": "Tropical & Subtropical",
+    "growth_form": "Shrubs, Trees",
+    "economic_importance": [
+      "Medicinal plants: Phyllanthus"
+    ],
+    "notable_examples": [
+      "Phyllanthus tenellus Roxb.",
+      "Phyllanthus reticulatus Poir.",
+      "Phyllanthus fischeri Pax",
+      "Phyllanthus suffrutescens Pax",
+      "Phyllanthus acidus (L.) Skeels",
+      "Phyllanthus amarus Schumach. & Thonn.",
+      "Phyllanthus niruri L.",
+      "Phyllanthus urinaria L.",
+      "Breynia disticha J.R.Forst. & G.Forst.",
+      "Phyllanthus emblica L.",
+      "Phyllanthus niruroides Müll.Arg.",
+      "Phyllanthus phillyreifolius Poir.",
+      "Phyllanthus epiphyllanthus L.",
+      "Phyllanthus mimosoides Sw.",
+      "Breynia vitis-idaea (Burm.f.) C.E.C.Fisch."
+    ]
+  },
+  "Plantaginaceae": {
+    "common_name": "Plantain Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Herbs",
+    "economic_importance": [
+      "Medicinal plants: Plantain (Plantago)",
+      "Ornamentals: Digitalis"
+    ],
+    "notable_examples": [
+      "Mecardonia procumbens (Mill.) Small",
+      "Cymbalaria aequitriloba (Viv.) A.Chev.",
+      "Cymbalaria hepaticifolia (Poir.) Wettst.",
+      "Hebe andersonii (Lindl. & Paxton) Cockayne",
+      "Hebe brachysiphon Summerh.",
+      "Hebe ochracea Ashwin",
+      "Hebe salicifolia (G.Forst.) Pennell",
+      "Cymbalaria muralis P.Gaertn., B.Mey. & Scherb.",
+      "Paederota bonarota (L.) L.",
+      "Stemodia verticillata (Mill.) Hassl.",
+      "Hebe franciscana (Eastw.) Souster",
+      "Maurandya barclayana Lindl.",
+      "Keckiella cordifolia (Benth.) Straw",
+      "Hebe andersonii (Lindl. & J. Paxton) Cockayne",
+      "Cymbalaria muralis P.Gaertn."
+    ]
+  },
+  "Euphorbiaceae": {
+    "common_name": "Spurge Family",
+    "preferred_climate": "Diverse",
+    "growth_form": "Herbs, Shrubs, Trees",
+    "economic_importance": [
+      "Ornamentals: Poinsettia (Euphorbia pulcherrima)",
+      "Medicinal plants: Castor oil plant (Ricinus communis)",
+      "Timber: Hevea (rubber tree)"
+    ],
+    "notable_examples": [
+      "Mercurialis annua L.",
+      "Acalypha virginica L.",
+      "Mercurialis perennis L.",
+      "Acalypha crenata Hochst. ex A. Rich.",
+      "Acalypha hispida Burm. f.",
+      "Triadica sebifera (L.) Small",
+      "Mercurialis ambigua L.f.",
+      "Mercurialis tomentosa L.",
+      "Sagotia racemosa Baill.",
+      "Acalypha wilkesiana Müll.Arg.",
+      "Acalypha indica L.",
+      "Acalypha hispida Burm.f.",
+      "Acalypha integrifolia Willd.",
+      "Acalypha aristata Kunth",
+      "Acalypha macrostachya Jacq."
+    ]
+  },
+  "Araliaceae": {
+    "common_name": "Ivy Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Shrubs, Trees",
+    "economic_importance": [
+      "Ornamentals: Ivy (Hedera)",
+      "Timber: Schefflera"
+    ],
+    "notable_examples": [
+      "Schefflera actinophylla (Endl.) Harms",
+      "Aralia elata (Miq.) Seem.",
+      "Schefflera actinophylla Harms",
+      "Schefflera decaphylla (Seem.) Harms",
+      "Schefflera actinophylla (F.Muell.) Harms",
+      "Schefflera arboricola (Hayata) Merr.",
+      "Aralia hispida Vent.",
+      "Aralia nudicaulis L.",
+      "Aralia racemosa L.",
+      "Schefflera heptaphylla (L.) Frodin",
+      "Aralia californica S. Watson",
+      "Aralia spinosa L.",
+      "Schefflera morototoni (Aubl.) Maguire"
+    ]
+  },
+  "Caryophyllaceae": {
+    "common_name": "Carnation Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Herbs",
+    "economic_importance": [
+      "Ornamentals: Carnation (Dianthus)",
+      "Medicinal plants: Silene"
+    ],
+    "notable_examples": [
+      "Vaccaria hispanica (Mill.) Rauschert",
+      "Spergularia rubra (L.) J. Presl & C. Presl",
+      "Moehringia trinervia (L.) Clairv.",
+      "Myosoton aquaticum (L.) Moench",
+      "Atocion rupestre (L.) B.Oxelman",
+      "Moehringia ciliata (Scop.) Dalla Torre",
+      "Moehringia muscosa L.",
+      "Moehringia pentandra J.Gay",
+      "Viscaria alpina (L.) G.Don",
+      "Viscaria vulgaris Bernh.",
+      "Honckenya peploides (L.) Ehrh.",
+      "Moehringia lateriflora (L.) Fenzl"
+    ]
+  },
+  "Acanthaceae": {
+    "common_name": "Acanthus Family",
+    "preferred_climate": "Tropical & Subtropical",
+    "growth_form": "Herbs, Shrubs",
+    "economic_importance": [
+      "Ornamentals: Acanthus"
+    ],
+    "notable_examples": [
+      "Asystasia gangetica (L.) T. Anderson",
+      "Asystasia riparia Lindau",
+      "Asystasia charmian S. Moore",
+      "Aphelandra scabra (Vahl) Sm.",
+      "Asystasia gangetica (L.) T.Anderson",
+      "Eranthemum pulchellum Andrews",
+      "Aphelandra squarrosa Nees",
+      "Fittonia albivenis (Lindl. ex Veitch) R.K. Brummitt",
+      "Fittonia albivenis (Lindl. ex Veitch) Brummitt",
+      "Aphelandra sinclairiana Nees",
+      "Asystasia mysorensis (Roth) T.Anderson",
+      "Aphelandra aurantiaca Lindl."
+    ]
+  },
+  "Asparagaceae": {
+    "common_name": "Asparagus Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Herbs, Shrubs",
+    "economic_importance": [
+      "Vegetables: Asparagus",
+      "Ornamentals: Asparagus fern (Asparagus densiflorus)"
+    ],
+    "notable_examples": [
+      "Anthericum liliago L.",
+      "Oncostema elongata (Parl.) Speta",
+      "Oncostema peruviana (L.) Speta",
+      "Maianthemum bifolium (L.) F.W.Schmidt",
+      "Anthericum ramosum L.",
+      "Maianthemum canadense Desf.",
+      "Maianthemum racemosum (L.) Link",
+      "Maianthemum stellatum (L.) Link",
+      "Maianthemum trifolium (L.) Sloboda",
+      "Liriope muscari (Decne.) L.H.Bailey",
+      "Liriope muscari (Decne.) L.H. Bailey",
+      "Brodiaea elegans Hoover"
+    ]
+  },
+  "Apocynaceae": {
+    "common_name": "Dogbane Family",
+    "preferred_climate": "Tropical & Subtropical",
+    "growth_form": "Shrubs, Trees",
+    "economic_importance": [
+      "Medicinal plants: Vinca",
+      "Ornamentals: Nerium oleander"
+    ],
+    "notable_examples": [
+      "Gomphocarpus integer (N.E. Br.) Bullock",
+      "Trachelospermum jasminoides (Lindl.) Lem.",
+      "Gomphocarpus fruticosus (L.) R.Br.",
+      "Gomphocarpus physocarpus E.Mey.",
+      "Bonafousia undulata (Vahl) A.DC.",
+      "Cryptostegia madagascariensis Bojer ex Decne.",
+      "Cryptostegia grandiflora R.Br.",
+      "Cerbera manghas L.",
+      "Dischidia nummularia R.Br.",
+      "Haplophyton crooksii (L.D. Benson) L.D. Benson",
+      "Dischidia ovata Benth.",
+      "Trachelospermum asiaticum (Siebold & Zucc.) Nakai"
+    ]
+  },
+  "Annonaceae": {
+    "common_name": "Custard Apple Family",
+    "preferred_climate": "Tropical & Subtropical",
+    "growth_form": "Shrubs, Trees",
+    "economic_importance": [
+      "Fruits: Soursop (Annona muricata)",
+      "Medicinal plants: Annona"
+    ],
+    "notable_examples": [
+      "Guatteria anteridifera Scharf & Maas",
+      "Xylopia frutescens Aubl.",
+      "Xylopia nitida Dunal",
+      "Xylopia sericea A.St.-Hil.",
+      "Xylopia crinita R.E.Fr.",
+      "Guatteria amplifolia Triana & Planch.",
+      "Guatteria citriodora Ducke",
+      "Guatteria punctata (Aubl.) R.A.Howard",
+      "Guatteria aeruginosa Standl.",
+      "Guatteria dolichopoda Donn. Sm.",
+      "Stenanona costaricensis R.E. Fr."
+    ]
+  },
+  "Thymelaeaceae": {
+    "common_name": "Mezereon Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Shrubs",
+    "economic_importance": [
+      "Medicinal plants: Daphne"
+    ],
+    "notable_examples": [
+      "Daphne gnidium L.",
+      "Daphne laureola L.",
+      "Daphne oleoides Schreb.",
+      "Daphne alpina L.",
+      "Daphne cneorum L.",
+      "Daphne mezereum L.",
+      "Daphne striata Tratt.",
+      "Daphne sericea Vahl",
+      "Daphne odora Thunb.",
+      "Daphne tangutica Maxim."
+    ]
+  },
+  "Smilacaceae": {
+    "common_name": "Greenbrier Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Vines",
+    "economic_importance": [
+      "Medicinal plants: Smilax"
+    ],
+    "notable_examples": [
+      "Smilax aspera L.",
+      "Smilax anceps Willd.",
+      "Smilax rotundifolia L.",
+      "Smilax herbacea L.",
+      "Smilax tamnoides L.",
+      "Smilax china L.",
+      "Smilax bona-nox L.",
+      "Smilax glauca Walter",
+      "Smilax laurifolia L.",
+      "Smilax excelsa L."
+    ]
+  },
+  "Aizoaceae": {
+    "common_name": "Ice Plant Family",
+    "preferred_climate": "Arid",
+    "growth_form": "Succulents",
+    "economic_importance": [
+      "Ornamentals: Lithops"
+    ],
+    "notable_examples": [
+      "Aizoon canariense L.",
+      "Aizoanthemum hispanicum (L.) H.E.K.Hartmann",
+      "Dorotheanthus bellidiformis (Burm.f.) N.E.Br.",
+      "Zaleya pentandra (L.) C.Jeffrey",
+      "Lithops fulviceps N.E.Br.",
+      "Lithops karasmontana N.E.Br.",
+      "Lithops marmorata N.E.Br.",
+      "Lithops pseudotruncatella N.E.Br.",
+      "Lithops aucampiae L. Bolus",
+      "Lithops olivacea L. Bolus"
+    ]
+  },
+  "Nymphaeaceae": {
+    "common_name": "Water Lily Family",
+    "preferred_climate": "Tropical & Subtropical",
+    "growth_form": "Aquatic plants",
+    "economic_importance": [
+      "Ornamentals: Water lilies (Nymphaea)"
+    ],
+    "notable_examples": [
+      "Nymphaea nouchali Burm. f.",
+      "Nymphaea alba L.",
+      "Nymphaea lotus L.",
+      "Nymphaea candida C.Presl",
+      "Nymphaea nouchali Burm.f.",
+      "Nymphaea ampla (Salisb.) DC.",
+      "Nymphaea mexicana Zucc.",
+      "Nymphaea odorata Aiton",
+      "Nymphaea tetragona Georgi",
+      "Nymphaea rubra Roxb. ex Andrews"
+    ]
+  },
+  "Iridaceae": {
+    "common_name": "Iris Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Herbs",
+    "economic_importance": [
+      "Ornamentals: Iris, Gladiolus"
+    ],
+    "notable_examples": [
+      "Freesia refracta (Jacq.) Klatt",
+      "Aristea abyssinica Pax",
+      "Aristea ecklonii Baker",
+      "Freesia x hybrida L.H.Bailey",
+      "Dierama pulcherrimum (Hook.f.) Baker",
+      "Freesia refracta (Jacq.) Eckl. ex Klatt",
+      "Freesia alba (G.L.Mey.) Grumbleton",
+      "Trimezia martinicensis (Jacq.) Herb.",
+      "Herbertia lahue (Molina) Goldblatt"
+    ]
+  },
+  "Cucurbitaceae": {
+    "common_name": "Gourd Family",
+    "preferred_climate": "Tropical & Subtropical",
+    "growth_form": "Vines",
+    "economic_importance": [
+      "Vegetables: Cucumber, Melon, Pumpkin",
+      "Medicinal plants: Bitter melon (Momordica charantia)"
+    ],
+    "notable_examples": [
+      "Cucurbita ficifolia Bouché",
+      "Cucurbita pepo L.",
+      "Luffa acutangula (L.) Roxb.",
+      "Lagenaria siceraria (Molina) Standl.",
+      "Lagenaria sphaerica (Sond.) Naudin",
+      "Cucurbita maxima Duchesne",
+      "Cucurbita moschata Duchesne",
+      "Luffa cylindrica (L.) M.Roem.",
+      "Cucurbita foetidissima Kunth"
+    ]
+  },
+  "Caprifoliaceae": {
+    "common_name": "Honeysuckle Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Shrubs, Trees",
+    "economic_importance": [
+      "Ornamentals: Honeysuckle (Lonicera)",
+      "Medicinal plants: Elderberry (Sambucus)"
+    ],
+    "notable_examples": [
+      "Centranthus calcitrapae (L.) Dufr.",
+      "Fedia cornucopiae (L.) Gaertn.",
+      "Centranthus angustifolius (Mill.) DC.",
+      "Centranthus lecoqii Jord.",
+      "Centranthus ruber (L.) DC.",
+      "Fedia graciliflora Fisch. & C.A.Mey.",
+      "Diervilla lonicera Mill.",
+      "Diervilla sessilifolia Buckley",
+      "Pterocephalus perennis Coult."
+    ]
+  },
+  "Nothofagaceae": {
+    "common_name": "Southern Beech Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Trees",
+    "economic_importance": [
+      "Timber: Nothofagus"
+    ],
+    "notable_examples": [
+      "Nothofagus obliqua (Mirb.) Oerst.",
+      "Nothofagus antarctica (G.Forst.) Oerst.",
+      "Nothofagus alpina (Poepp. & Endl.) Oerst.",
+      "Nothofagus pumilio (Poepp. & Endl.) Krasser",
+      "Nothofagus betuloides (Mirb.) Oerst.",
+      "Nothofagus dombeyi (Mirb.) Oerst.",
+      "Nothofagus nitida (Phil.) Krasser"
+    ]
+  },
+  "Boraginaceae": {
+    "common_name": "Borage Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Herbs",
+    "economic_importance": [
+      "Herbs: Borage (Borago officinalis)",
+      "Ornamentals: Pulmonaria"
+    ],
+    "notable_examples": [
+      "Lithodora fruticosa (L.) Griseb.",
+      "Eritrichium nanum (L.) Schrad. ex Gaudin",
+      "Mertensia maritima (L.) Gray",
+      "Mertensia paniculata (Aiton) G. Don",
+      "Mertensia virginica (L.) Pers. ex Link",
+      "Mertensia ciliata (James ex Torr.) G. Don",
+      "Hackelia velutina (Piper) I.M. Johnst."
+    ]
+  },
+  "Amaryllidaceae": {
+    "common_name": "Amaryllis Family",
+    "preferred_climate": "Tropical & Subtropical",
+    "growth_form": "Herbs",
+    "economic_importance": [
+      "Ornamentals: Amaryllis, Narcissus",
+      "Medicinal plants: Crinum"
+    ],
+    "notable_examples": [
+      "Pancratium canariense Ker Gawl.",
+      "Pancratium maritimum L.",
+      "Pancratium illyricum L.",
+      "Lycoris radiata (L'Hér.) Herb.",
+      "Lycoris squamigera Maxim.",
+      "Pancratium maritimum L. L.",
+      "Cyrtanthus elatus (Jacq.) Traub"
+    ]
+  },
+  "Liliaceae": {
+    "common_name": "Lily Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Herbs",
+    "economic_importance": [
+      "Ornamentals: Lily (Lilium)",
+      "Medicinal plants: Fritillaria"
+    ],
+    "notable_examples": [
+      "Calochortus macrocarpus Douglas",
+      "Calochortus eurycarpus S. Watson",
+      "Calochortus gunnisonii S. Watson",
+      "Calochortus leichtlinii Hook. f.",
+      "Calochortus luteus Douglas ex Lindl.",
+      "Calochortus splendens Douglas ex Benth.",
+      "Calochortus tolmiei Hook. & Arn."
+    ]
+  },
+  "Ericaceae": {
+    "common_name": "Heath Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Shrubs, Trees",
+    "economic_importance": [
+      "Ornamentals: Rhododendron, Azalea",
+      "Medicinal plants: Vaccinium"
+    ],
+    "notable_examples": [
+      "Empetrum nigrum L.",
+      "Rhodothamnus chamaecistus (L.) Rchb.",
+      "Dracophyllum verticillatum Labill.",
+      "Oxydendrum arboreum (L.) DC.",
+      "Xylococcus bicolor Nutt.",
+      "Empetrum rubrum Vahl ex Willd."
+    ]
+  },
+  "Nephrolepidaceae": {
+    "common_name": "Boston Fern Family",
+    "preferred_climate": "Tropical & Subtropical",
+    "growth_form": "Ferns",
+    "economic_importance": [
+      "Ornamentals: Boston fern (Nephrolepis exaltata)"
+    ],
+    "notable_examples": [
+      "Nephrolepis cordifolia (L.) C. Presl",
+      "Nephrolepis exaltata (L.) Schott",
+      "Nephrolepis cordifolia (L.) C.Presl",
+      "Nephrolepis biserrata (Sw.) Schott",
+      "Nephrolepis abrupta (Bory) Mett.",
+      "Nephrolepis falcata (Cav.) C. Chr."
+    ]
+  },
+  "Family not found": {
+    "common_name": "Unknown",
+    "preferred_climate": "Unknown",
+    "growth_form": "Unknown",
+    "economic_importance": [
+      "Unknown"
+    ],
+    "notable_examples": [
+      "Schefflera spp.",
+      "Lithops spp.",
+      "Dendrobium spp.",
+      "Nepenthes spp.",
+      "Pelargonium spp.",
+      "Lavandula spp."
+    ]
+  },
+  "Capparaceae": {
+    "common_name": "Caper Family",
+    "preferred_climate": "Tropical & Subtropical",
+    "growth_form": "Shrubs",
+    "economic_importance": [
+      "Vegetables: Caper (Capparis spinosa)"
+    ],
+    "notable_examples": [
+      "Boscia angustifolia A. Rich.",
+      "Maerua angolensis DC.",
+      "Boscia mossambicensis Klotzsch",
+      "Boscia coriacea Pax",
+      "Maerua triphylla A. Rich."
+    ]
+  },
+  "Rutaceae": {
+    "common_name": "Citrus or Rue Family",
+    "preferred_climate": "Tropical & Subtropical",
+    "growth_form": "Shrubs, Trees",
+    "economic_importance": [
+      "Fruits: Oranges, Lemons, Limes, Grapefruits, Tangerines",
+      "Essential oils: Extracted from peels for fragrances and flavorings",
+      "Medicinal plants: Rue (Ruta graveolens)",
+      "Ornamentals: Dictamnus, Poncirus"
+    ],
+    "notable_examples": [
+      "Pilocarpus racemosus Vahl",
+      "Vepris lanceolata (Lam.) G.Don",
+      "Limonia acidissima Groff",
+      "Calodendrum capense (L.f.) Thunb.",
+      "Angostura granulosa (Kallunki) Kallunki"
+    ]
+  },
+  "Alismataceae": {
+    "common_name": "Water Plantain Family",
+    "preferred_climate": "Tropical & Subtropical",
+    "growth_form": "Aquatic plants",
+    "economic_importance": [
+      "Ornamentals: Aponogeton"
+    ],
+    "notable_examples": [
+      "Sagittaria graminea Michx.",
+      "Sagittaria latifolia Willd.",
+      "Sagittaria sagittifolia L.",
+      "Sagittaria lancifolia L.",
+      "Sagittaria montevidensis Cham. & Schltdl."
+    ]
+  },
+  "Malvaceae": {
+    "common_name": "Mallow Family",
+    "preferred_climate": "Tropical & Subtropical",
+    "growth_form": "Shrubs, Trees",
+    "economic_importance": [
+      "Fibers: Cotton (Gossypium)",
+      "Fruits: Okra (Abelmoschus esculentus)",
+      "Ornamentals: Hibiscus"
+    ],
+    "notable_examples": [
+      "Alcea rosea L.",
+      "Althaea cannabina L.",
+      "Althaea officinalis L.",
+      "Alcea biennis Winterl",
+      "Alcea setosa (Boiss.) Alef."
+    ]
+  },
+  "Nepenthaceae": {
+    "common_name": "Pitcher Plant Family",
+    "preferred_climate": "Tropical",
+    "growth_form": "Carnivorous plants",
+    "economic_importance": [
+      "Ornamentals: Nepenthes"
+    ],
+    "notable_examples": [
+      "Nepenthes vieillardii Hook. f.",
+      "Nepenthes mirabilis (Lour.) Druce",
+      "Nepenthes × neglecta Macfarl.",
+      "Nepenthes alata Blanco",
+      "Nepenthes truncata Macfarl."
+    ]
+  },
+  "Solanaceae": {
+    "common_name": "Nightshade Family",
+    "preferred_climate": "Tropical & Subtropical",
+    "growth_form": "Herbs, Shrubs",
+    "economic_importance": [
+      "Vegetables: Tomato, Potato, Eggplant",
+      "Medicinal plants: Belladonna (Atropa belladonna)",
+      "Ornamentals: Petunia"
+    ],
+    "notable_examples": [
+      "Hyoscyamus albus L.",
+      "Hyoscyamus niger L.",
+      "Browallia americana L.",
+      "Browallia speciosa Hook."
+    ]
+  },
+  "Orobanchaceae": {
+    "common_name": "Broomrape Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Herbs",
+    "economic_importance": [
+      "Medicinal plants: Orobanche"
+    ],
+    "notable_examples": [
+      "Striga asiatica (L.) Kuntze",
+      "Macrosyringion longiflorum (Vohl) Rothm.",
+      "Lathraea clandestina L.",
+      "Lathraea squamaria L."
+    ]
+  },
+  "Thesiaceae": {
+    "common_name": "Thesium Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Herbs",
+    "economic_importance": [
+      "Medicinal plants: Thesium"
+    ],
+    "notable_examples": [
+      "Thesium humifusum DC.",
+      "Thesium alpinum L.",
+      "Thesium linophyllon L.",
+      "Thesium pyrenaicum Pourr."
+    ]
+  },
+  "Arecaceae": {
+    "common_name": "Palm Family",
+    "preferred_climate": "Tropical & Subtropical",
+    "growth_form": "Trees",
+    "economic_importance": [
+      "Fruits: Coconut (Cocos nucifera)",
+      "Ornamentals: Date palm (Phoenix dactylifera)",
+      "Timber: Rattan"
+    ],
+    "notable_examples": [
+      "Raphia farinifera (Gaertn.) Hyl.",
+      "Mauritia flexuosa L.f.",
+      "Bismarckia nobilis Hildebr. & H.Wendl.",
+      "Wodyetia bifurcata A.K.Irvine"
+    ]
+  },
+  "Ehretiaceae": {
+    "common_name": "Ehretia Family",
+    "preferred_climate": "Tropical & Subtropical",
+    "growth_form": "Shrubs, Trees",
+    "economic_importance": [
+      "Ornamentals: Ehretia"
+    ],
+    "notable_examples": [
+      "Bourreria succulenta Jacq.",
+      "Bourreria andrieuxii (DC.) Hemsl.",
+      "Bourreria costaricensis (Standl.) A.H. Gentry"
+    ]
+  },
+  "Cupressaceae": {
+    "common_name": "Cypress Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Trees",
+    "economic_importance": [
+      "Timber: Cypress (Cupressus)",
+      "Ornamentals: Juniper (Juniperus)"
+    ],
+    "notable_examples": [
+      "Metasequoia glyptostroboides Hu & W.C.Cheng",
+      "Tetraclinis articulata (Vahl) Mast.",
+      "Metasequoia glyptostroboides Hu & W.C. Cheng"
+    ]
+  },
+  "Zamiaceae": {
+    "common_name": "Cycad Family",
+    "preferred_climate": "Tropical & Subtropical",
+    "growth_form": "Trees",
+    "economic_importance": [
+      "Ornamentals: Cycas"
+    ],
+    "notable_examples": [
+      "Zamia furfuracea L.f.",
+      "Zamia pumila L.",
+      "Zamia furfuracea L.f. ex Aiton"
+    ]
+  },
+  "Vitaceae": {
+    "common_name": "Grape Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Vines",
+    "economic_importance": [
+      "Fruits: Grape (Vitis vinifera)",
+      "Ornamentals: Ampelopsis"
+    ],
+    "notable_examples": [
+      "Cyphostemma cyphopetalum (Fresen.) Desc. ex Wild & R.B.Drumm.",
+      "Cyphostemma juttae (Dinter & Gilg) Desc.",
+      "Cyphostemma serpens (Hochst. ex A.Rich.) Desc."
+    ]
+  },
+  "Celastraceae": {
+    "common_name": "Staff Vine Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Shrubs, Trees",
+    "economic_importance": [
+      "Ornamentals: Euonymus"
+    ],
+    "notable_examples": [
+      "Gymnosporia putterlickioides Loes.",
+      "Maytenus boaria Molina",
+      "Maytenus ilicifolia Mart. ex Reissek"
+    ]
+  },
+  "Hernandiaceae": {
+    "common_name": "Hernandia Family",
+    "preferred_climate": "Tropical",
+    "growth_form": "Trees",
+    "economic_importance": [
+      "Ornamentals: Hernandia"
+    ],
+    "notable_examples": [
+      "Hernandia mascarenensis (Meisn.) Kubitzki",
+      "Hernandia cordigera Vieill.",
+      "Hernandia nymphaeifolia (J.Presl) Kubitzki"
+    ]
+  },
+  "Lecythidaceae": {
+    "common_name": "Lecythis Family",
+    "preferred_climate": "Tropical",
+    "growth_form": "Trees",
+    "economic_importance": [
+      "Timber: Lecythis"
+    ],
+    "notable_examples": [
+      "Barringtonia asiatica (L.) Kurz",
+      "Couroupita guianensis Aubl.",
+      "Barringtonia acutangula (L.) Gaertn."
+    ]
+  },
+  "Meliaceae": {
+    "common_name": "Mahogany Family",
+    "preferred_climate": "Tropical",
+    "growth_form": "Trees",
+    "economic_importance": [
+      "Timber: Mahogany (Swietenia)",
+      "Medicinal plants: Neem (Azadirachta indica)"
+    ],
+    "notable_examples": [
+      "Cedrela odorata L.",
+      "Guarea gomma Pulle",
+      "Cedrela fissilis Vell."
+    ]
+  },
+  "Osmundaceae": {
+    "common_name": "Royal Fern Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Ferns",
+    "economic_importance": [
+      "Ornamentals: Osmunda"
+    ],
+    "notable_examples": [
+      "Osmunda regalis L.",
+      "Osmunda cinnamomea L.",
+      "Osmunda claytoniana L."
+    ]
+  },
+  "Asphodelaceae": {
+    "common_name": "Asphodel Family",
+    "preferred_climate": "Tropical & Subtropical",
+    "growth_form": "Herbs",
+    "economic_importance": [
+      "Ornamentals: Aloe"
+    ],
+    "notable_examples": [
+      "Kniphofia linearifolia Baker",
+      "Kniphofia uvaria (L.) Hook.",
+      "Kniphofia uvaria (L.) Oken"
+    ]
+  },
+  "Amaranthaceae": {
+    "common_name": "Amaranth Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Herbs",
+    "economic_importance": [
+      "Vegetables: Amaranth (Amaranthus)",
+      "Ornamentals: Celosia"
+    ],
+    "notable_examples": [
+      "Achyranthes aspera L.",
+      "Corispermum pallasii Steven"
+    ]
+  },
+  "Hydrocharitaceae": {
+    "common_name": "Hydrocharis Family",
+    "preferred_climate": "Tropical & Subtropical",
+    "growth_form": "Aquatic plants",
+    "economic_importance": [
+      "Ornamentals: Hydrocharis"
+    ],
+    "notable_examples": [
+      "Egeria densa Planch.",
+      "Elodea canadensis Michx."
+    ]
+  },
+  "Namaceae": {
+    "common_name": "Nama Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Herbs",
+    "economic_importance": [
+      "Ornamentals: Nama"
+    ],
+    "notable_examples": [
+      "Wigandia caracasana Kunth",
+      "Wigandia urens (Ruiz & Pav.) Kunth"
+    ]
+  },
+  "Mazaceae": {
+    "common_name": "Maza Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Herbs",
+    "economic_importance": [
+      "Ornamentals: Maza"
+    ],
+    "notable_examples": [
+      "Mazus pumilus (Burm.f.) Steenis",
+      "Mazus pumilus (Burm. f.) Steenis"
+    ]
+  },
+  "Onagraceae": {
+    "common_name": "Evening Primrose Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Herbs",
+    "economic_importance": [
+      "Ornamentals: Evening primrose (Oenothera)",
+      "Medicinal plants: Fuchsia"
+    ],
+    "notable_examples": [
+      "Chamerion latifolium (L.) Holub",
+      "Calylophus hartwegii (Benth.) P.H. Raven"
+    ]
+  },
+  "Urticaceae": {
+    "common_name": "Nettle Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Herbs",
+    "economic_importance": [
+      "Medicinal plants: Nettle (Urtica dioica)",
+      "Ornamentals: Pilea"
+    ],
+    "notable_examples": [
+      "Urera baccifera (L.) Gaudich. ex Wedd.",
+      "Coussapoa villosa Poepp. & Endl."
+    ]
+  },
+  "Elaeocarpaceae": {
+    "common_name": "Elaeocarpus Family",
+    "preferred_climate": "Tropical & Subtropical",
+    "growth_form": "Trees",
+    "economic_importance": [
+      "Ornamentals: Elaeocarpus"
+    ],
+    "notable_examples": [
+      "Dubouzetia confusa Guillaumin & Virot",
+      "Dubouzetia campanulata Pancher ex Brongn. & Gris"
+    ]
+  },
+  "Scrophulariaceae": {
+    "common_name": "Figwort Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Herbs",
+    "economic_importance": [
+      "Ornamentals: Digitalis",
+      "Medicinal plants: Veronica"
+    ],
+    "notable_examples": [
+      "Diascia rigescens E.Mey. ex Benth.",
+      "Diascia vigilis Hilliard & Burtt"
+    ]
+  },
+  "Schisandraceae": {
+    "common_name": "Schisandra Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Vines",
+    "economic_importance": [
+      "Medicinal plants: Schisandra (Schisandra chinensis)"
+    ],
+    "notable_examples": [
+      "Illicium verum Hook.f.",
+      "Illicium floridanum J. Ellis"
+    ]
+  },
+  "Casuarinaceae": {
+    "common_name": "Casuarina Family",
+    "preferred_climate": "Tropical & Subtropical",
+    "growth_form": "Trees",
+    "economic_importance": [
+      "Timber: Casuarina"
+    ],
+    "notable_examples": [
+      "Casuarina cunninghamiana Miq.",
+      "Casuarina equisetifolia L."
+    ]
+  },
+  "Potamogetonaceae": {
+    "common_name": "Pondweed Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Aquatic plants",
+    "economic_importance": [
+      "Ornamentals: Potamogeton"
+    ],
+    "notable_examples": [
+      "Groenlandia densa (L.) Fourr.",
+      "Zannichellia palustris L."
+    ]
+  },
+  "Menyanthaceae": {
+    "common_name": "Bogbean Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Aquatic plants",
+    "economic_importance": [
+      "Ornamentals: Menyanthes"
+    ],
+    "notable_examples": [
+      "Nymphoides peltata (S.G.Gmel.) Kuntze",
+      "Nymphoides indica (L.) Kuntze"
+    ]
+  },
+  "Calycanthaceae": {
+    "common_name": "Sweetshrub Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Shrubs",
+    "economic_importance": [
+      "Ornamentals: Calycanthus"
+    ],
+    "notable_examples": [
+      "Calycanthus floridus L.",
+      "Calycanthus occidentalis Hook. & Arn."
+    ]
+  },
+  "Zygophyllaceae": {
+    "common_name": "Creosote Bush Family",
+    "preferred_climate": "Arid",
+    "growth_form": "Shrubs",
+    "economic_importance": [
+      "Medicinal plants: Zygophyllum"
+    ],
+    "notable_examples": [
+      "Guaiacum officinale L.",
+      "Guaiacum sanctum L."
+    ]
+  },
+  "Magnoliaceae": {
+    "common_name": "Magnolia Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Shrubs, Trees",
+    "economic_importance": [
+      "Ornamentals: Magnolia"
+    ],
+    "notable_examples": [
+      "Liriodendron chinensis (Hemsl.) Sarg.",
+      "Liriodendron tulipifera L."
+    ]
+  },
+  "Calophyllaceae": {
+    "common_name": "Calophyllum Family",
+    "preferred_climate": "Tropical",
+    "growth_form": "Trees",
+    "economic_importance": [
+      "Ornamentals: Calophyllum"
+    ],
+    "notable_examples": [
+      "Caraipa densifolia Mart.",
+      "Caraipa punctulata Ducke"
+    ]
+  },
+  "Limnanthaceae": {
+    "common_name": "Limnanthes Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Herbs",
+    "economic_importance": [
+      "Ornamentals: Limnanthes"
+    ],
+    "notable_examples": [
+      "Limnanthes douglasii R.Br.",
+      "Limnanthes douglasii R. Br."
+    ]
+  },
+  "Polemoniaceae": {
+    "common_name": "Phlox Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Herbs",
+    "economic_importance": [
+      "Ornamentals: Phlox"
+    ],
+    "notable_examples": [
+      "Collomia grandiflora Douglas ex Lindl.",
+      "Cobaea scandens Cav."
+    ]
+  },
+  "Cytinaceae": {
+    "common_name": "Cytinus Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Parasitic plants",
+    "economic_importance": [
+      "Medicinal plants: Cytinus"
+    ],
+    "notable_examples": [
+      "Cytinus hypocistis (L.) L.",
+      "Cytinus ruber Fritsch"
+    ]
+  },
+  "Cistaceae": {
+    "common_name": "Rockrose Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Shrubs",
+    "economic_importance": [
+      "Ornamentals: Cistus"
+    ],
+    "notable_examples": [
+      "Diatelia tuberaria (L.) Demoly"
+    ]
+  },
+  "Butomaceae": {
+    "common_name": "Butomus Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Aquatic plants",
+    "economic_importance": [
+      "Ornamentals: Butomus"
+    ],
+    "notable_examples": [
+      "Butomus umbellatus L."
+    ]
+  },
+  "Lythraceae": {
+    "common_name": "Loosestrife Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Herbs, Shrubs",
+    "economic_importance": [
+      "Ornamentals: Lagerstroemia"
+    ],
+    "notable_examples": [
+      "Punica granatum L."
+    ]
+  },
+  "Plumbaginaceae": {
+    "common_name": "Leadwort Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Herbs, Shrubs",
+    "economic_importance": [
+      "Ornamentals: Plumbago"
+    ],
+    "notable_examples": [
+      "Goniolimon tataricum (L.) Boiss."
+    ]
+  },
+  "Cannabaceae": {
+    "common_name": "Hemp Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Herbs",
+    "economic_importance": [
+      "Fibers: Hemp (Cannabis sativa)",
+      "Recreational drugs: Marijuana (Cannabis sativa)"
+    ],
+    "notable_examples": [
+      "Humulus lupulus L."
+    ]
+  },
+  "Martyniaceae": {
+    "common_name": "Martynia Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Herbs",
+    "economic_importance": [
+      "Ornamentals: Martynia"
+    ],
+    "notable_examples": [
+      "Ibicella lutea (Lindl.) Van Eselt."
+    ]
+  },
+  "Phytolaccaceae": {
+    "common_name": "Pokeweed Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Herbs",
+    "economic_importance": [
+      "Medicinal plants: Phytolacca"
+    ],
+    "notable_examples": [
+      "Petiveria alliacea L."
+    ]
+  },
+  "Loranthaceae": {
+    "common_name": "Mistletoe Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Parasitic plants",
+    "economic_importance": [
+      "Ornamentals: Mistletoe (Viscum album)"
+    ],
+    "notable_examples": [
+      "Erianthemum dregei (Eckl. & Zeyh.) Tiegh."
+    ]
+  },
+  "Clethraceae": {
+    "common_name": "Clethra Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Shrubs",
+    "economic_importance": [
+      "Ornamentals: Clethra"
+    ],
+    "notable_examples": [
+      "Clethra alnifolia L."
+    ]
+  },
+  "Thelypteridaceae": {
+    "common_name": "Thelypteris Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Ferns",
+    "economic_importance": [
+      "Ornamentals: Thelypteris"
+    ],
+    "notable_examples": [
+      "Oreopteris limbosperma (Bellardi ex All.) Holub"
+    ]
+  },
+  "Elaeagnaceae": {
+    "common_name": "Olive Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Shrubs, Trees",
+    "economic_importance": [
+      "Fruits: Olive (Olea europaea)",
+      "Ornamentals: Elaeagnus"
+    ],
+    "notable_examples": [
+      "Hippophae rhamnoides L."
+    ]
+  },
+  "Nartheciaceae": {
+    "common_name": "Narthecium Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Herbs",
+    "economic_importance": [
+      "Ornamentals: Narthecium"
+    ],
+    "notable_examples": [
+      "Narthecium ossifragum (L.) Huds."
+    ]
+  },
+  "Bignoniaceae": {
+    "common_name": "Bignonia Family",
+    "preferred_climate": "Tropical & Subtropical",
+    "growth_form": "Vines, Trees",
+    "economic_importance": [
+      "Ornamentals: Jacaranda"
+    ],
+    "notable_examples": [
+      "Kigelia africana (Lam.) Benth."
+    ]
+  },
+  "Loganiaceae": {
+    "common_name": "Logania Family",
+    "preferred_climate": "Tropical & Subtropical",
+    "growth_form": "Shrubs, Trees",
+    "economic_importance": [
+      "Medicinal plants: Strychnos"
+    ],
+    "notable_examples": [
+      "Geniostoma borbonicum (Lam.) Spreng."
+    ]
+  },
+  "Melastomataceae": {
+    "common_name": "Melastoma Family",
+    "preferred_climate": "Tropical & Subtropical",
+    "growth_form": "Shrubs",
+    "economic_importance": [
+      "Ornamentals: Melastoma"
+    ],
+    "notable_examples": [
+      "Aciotis rubricaulis (Mart. ex DC.) Triana"
+    ]
+  },
+  "Turneraceae": {
+    "common_name": "Turnera Family",
+    "preferred_climate": "Tropical & Subtropical",
+    "growth_form": "Herbs, Shrubs",
+    "economic_importance": [
+      "Ornamentals: Turnera"
+    ],
+    "notable_examples": [
+      "Piriqueta cistoides (L.) Griseb."
+    ]
+  },
+  "Myricaceae": {
+    "common_name": "Bayberry Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Shrubs",
+    "economic_importance": [
+      "Ornamentals: Myrica"
+    ],
+    "notable_examples": [
+      "Comptonia peregrina (L.) J.M. Coult."
+    ]
+  },
+  "Saxifragaceae": {
+    "common_name": "Saxifrage Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Herbs",
+    "economic_importance": [
+      "Ornamentals: Saxifraga"
+    ],
+    "notable_examples": [
+      "Mitella diphylla L."
+    ]
+  },
+  "Berberidaceae": {
+    "common_name": "Barberry Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Shrubs",
+    "economic_importance": [
+      "Medicinal plants: Berberis",
+      "Ornamentals: Mahonia"
+    ],
+    "notable_examples": [
+      "Nandina domestica Thunb."
+    ]
+  },
+  "Peraceae": {
+    "common_name": "Piperaceae Family",
+    "preferred_climate": "Tropical & Subtropical",
+    "growth_form": "Herbs",
+    "economic_importance": [
+      "Medicinal plants: Peperomia"
+    ],
+    "notable_examples": [
+      "Pogonophora schomburgkiana Miers ex Benth."
+    ]
+  },
+  "Garryaceae": {
+    "common_name": "Garrya Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Shrubs",
+    "economic_importance": [
+      "Ornamentals: Garrya"
+    ],
+    "notable_examples": [
+      "Garrya elliptica Douglas ex Lindl."
+    ]
+  },
+  "Hamamelidaceae": {
+    "common_name": "Witch Hazel Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Shrubs, Trees",
+    "economic_importance": [
+      "Medicinal plants: Witch hazel (Hamamelis virginiana)",
+      "Ornamentals: Hamamelis"
+    ],
+    "notable_examples": [
+      "Loropetalum chinense (R. Br.) Oliv."
+    ]
+  },
+  "Athyriaceae": {
+    "common_name": "Athyrium Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Ferns",
+    "economic_importance": [
+      "Ornamentals: Athyrium"
+    ],
+    "notable_examples": [
+      "Anisocampium niponicum (Mett.) Y.C.Liu, W.L. Chiou & M. Kato"
+    ]
+  },
+  "Cunoniaceae": {
+    "common_name": "Cunonia Family",
+    "preferred_climate": "Tropical & Subtropical",
+    "growth_form": "Trees",
+    "economic_importance": [
+      "Ornamentals: Cunonia"
+    ],
+    "notable_examples": [
+      "Eucryphia cordifolia Cav."
+    ]
+  },
+  "Philesiaceae": {
+    "common_name": "Philesia Family",
+    "preferred_climate": "Tropical & Subtropical",
+    "growth_form": "Trees",
+    "economic_importance": [
+      "Ornamentals: Philesia"
+    ],
+    "notable_examples": [
+      "Lapageria rosea Ruiz & Pav."
+    ]
+  },
+  "Oleaceae": {
+    "common_name": "Olive Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Shrubs, Trees",
+    "economic_importance": [
+      "Fruits: Olive (Olea europaea)",
+      "Ornamentals: Ligustrum"
+    ],
+    "notable_examples": [
+      "Abeliophyllum distichum Nakai"
+    ]
+  },
+  "Anacardiaceae": {
+    "common_name": "Cashew Family",
+    "preferred_climate": "Tropical & Subtropical",
+    "growth_form": "Shrubs, Trees",
+    "economic_importance": [
+      "Fruits: Mango (Mangifera indica)",
+      "Timber: Cashew (Anacardium occidentale)",
+      "Medicinal plants: Sumac (Rhus)"
+    ],
+    "notable_examples": [
+      "Schinopsis balansae Engl."
+    ]
+  },
+  "Pandanaceae": {
+    "common_name": "Screw Pine Family",
+    "preferred_climate": "Tropical & Subtropical",
+    "growth_form": "Trees",
+    "economic_importance": [
+      "Ornamentals: Pandanus"
+    ],
+    "notable_examples": [
+      "Freycinetia cumingiana Gaudich."
+    ]
+  },
+  "Nyctaginaceae": {
+    "common_name": "Four O'Clock Family",
+    "preferred_climate": "Tropical & Subtropical",
+    "growth_form": "Herbs, Shrubs",
+    "economic_importance": [
+      "Ornamentals: Bougainvillea"
+    ],
+    "notable_examples": [
+      "Nyctaginia capitata Choisy"
+    ]
+  },
+  "Aextoxicaceae": {
+    "common_name": "Aextoxicon Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Trees",
+    "economic_importance": [
+      "Ornamentals: Aextoxicon"
+    ],
+    "notable_examples": [
+      "Aextoxicon punctatum Ruiz & Pav."
+    ]
+  },
+  "Cyperaceae": {
+    "common_name": "Sedge Family",
+    "preferred_climate": "Temperate",
+    "growth_form": "Herbs",
+    "economic_importance": [
+      "Ornamentals: Carex"
+    ],
+    "notable_examples": [
+      "Uncinia rubra Colenso ex Boott"
+    ]
+  },
+  "Proteaceae": {
+    "common_name": "Protea Family",
+    "preferred_climate": "Tropical & Subtropical",
+    "growth_form": "Shrubs, Trees",
+    "economic_importance": [
+      "Ornamentals: Protea"
+    ],
+    "notable_examples": [
+      "Lomatia ferruginea R. Br."
+    ]
+  }
+}
