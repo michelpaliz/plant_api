@@ -9,10 +9,12 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = os.getenv('DJANGO_SECRET_KEY', 'django-insecure-1^+&4#g9pfpz5_wvz5_wct!1vc3ms@!$a6#*x3#*fqf)%m@t9j')
 
 # ✅ Set DEBUG mode from environment variable (False in production)
-DEBUG = os.getenv('DEBUG', 'True') == 'True'
+DEBUG = False  # Change from True to False
+
 
 # ✅ Define allowed hosts (reads from environment or defaults)
-ALLOWED_HOSTS = os.getenv("ALLOWED_HOSTS", "127.0.0.1,your-app.onrender.com,fastezcode.com").split(",")
+ALLOWED_HOSTS = ["plant-api-lyaj.onrender.com", "fastezcode.com"]
+
 
 # ✅ Installed applications
 INSTALLED_APPS = [
@@ -101,3 +103,4 @@ CORS_ALLOWED_ORIGINS = [
 
 # ✅ Option to allow all origins (only enable for development)
 CORS_ALLOW_ALL_ORIGINS = os.getenv('CORS_ALLOW_ALL', 'False') == 'True'
+
