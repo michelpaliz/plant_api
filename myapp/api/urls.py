@@ -1,6 +1,7 @@
 from django.urls import path
-from .views import predict_image
+from myapp.api.views import test_upload_simple, predict_image
 
 urlpatterns = [
-    path('predict/', predict_image, name='predict_image'),
+    path("test-upload-simple/", test_upload_simple, name="test_upload_simple"),
+    path("predict/", predict_image, name="predict_image"),
 ]
